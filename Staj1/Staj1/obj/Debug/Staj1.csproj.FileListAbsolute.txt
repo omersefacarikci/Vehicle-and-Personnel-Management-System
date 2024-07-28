@@ -1,0 +1,190 @@
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.exe
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.pdb
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.csprojResolveAssemblyReference.cache
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Properties.Resources.resources
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.csproj.GenerateResource.Cache
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.exe
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.pdb
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Giriş.resources
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.exe.licenses
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Anaform.resources
+c:\users\casper\onedrive\belgeler\visual studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.exe.config
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.kullaniciprofili.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.sifredegis.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.profilguncelleme.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.arackayıt.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.raporform.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.aracyakitfisi.resources
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\FlashControlV71.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Data.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Deployment.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Drawing.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Web.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Web.Services.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Windows.Forms.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Xml.dll
+C:\Users\casper\OneDrive\Belgeler\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Xml.Linq.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.exe.config
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.csprojResolveAssemblyReference.cache
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.exe
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\Staj1.pdb
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\FlashControlV71.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Data.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Deployment.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Drawing.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Web.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Web.Services.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Windows.Forms.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Xml.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\System.Xml.Linq.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.aracyakitfisi.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Anaform.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.arackayıt.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.personelkayıt.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Giriş.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.kullaniciprofili.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.profilguncelleme.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.Properties.Resources.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.raporform.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.sifredegis.resources
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.csproj.GenerateResource.Cache
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.exe.licenses
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.exe
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.pdb
+C:\Users\Ömer Sefa\Documents\Visual Studio 2010\Projects\Staj1\Staj1\obj\Debug\Staj1.personelsil.resources
